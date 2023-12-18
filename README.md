@@ -1,8 +1,15 @@
-### Hi there 👋
+### Laravel Artisan Here 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=mr-punyapal&label=👁️)
 [![Twitter](https://img.shields.io/twitter/follow/MrPunyapal?label=Follow)](https://twitter.com/intent/follow?screen_name=MrPunyapal)
 [![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mr-punyapal/)](https://www.linkedin.com/in/mr-punyapal/)
+![Profile Views](https://komarev.com/ghpvc/?username=mr-punyapal&label=👁️)
+
+### Development Environment:
+
+[![WINDOWS11](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://github.com/mr-punyapal)
+[![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/mr-punyapal)
+[![COREI7](https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/mr-punyapal)
+[![NVIDIA2060](https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/mr-punyapal)
 
 
 <a href="https://github.com/mr-punyapal">
