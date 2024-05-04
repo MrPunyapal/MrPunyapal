@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mr-punyapal&label=👁️)
 
 ### Join Laravel community
-[![LaravelArtisans](https://img.shields.io/badge/LaravelArtisans-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&https://telegram.me/LaravelArtisans)](https://telegram.me/LaravelArtisans)
+[![Laravel Artisans](https://img.shields.io/badge/Laravel+Artisans-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&https://telegram.me/LaravelArtisans)](https://telegram.me/LaravelArtisans)
 
 ### Development Environment:
 
