@@ -11,8 +11,8 @@ _  /___/ /_/ / _  /    / /_/ / __ |/ / /  __/_  /     _  ___ |_  /    / /_  _  /
 ![Profile Views](https://komarev.com/ghpvc/?username=mr-punyapal&label=👁️)
 
 ### Join Laravel community
-[![LaravelArtisans](https://img.shields.io/badge/LaravelArtisans-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&https://telegram.me/LaravelArtisans)](https://telegram.me/LaravelArtisans)
-[![LaravelArtisans](https://img.shields.io/badge/LaravelArtisans-7289da?style=for-the-badge&logo=discord&logoColor=white&https://discord.gg/yUBmUHMM7Q)](https://discord.gg/yUBmUHMM7Q)
+[![LaravelArtisans](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&https://telegram.me/LaravelArtisans)](https://telegram.me/LaravelArtisans)
+[![LaravelArtisans](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white&https://discord.gg/yUBmUHMM7Q)](https://discord.gg/yUBmUHMM7Q)
 
 ### Development Environment:
 
