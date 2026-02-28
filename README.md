@@ -9,7 +9,7 @@
 <!-- SOCIAL BADGES -->
 <p>
 <a href="https://mrpunyapal.dev"><img src="https://img.shields.io/badge/mrpunyapal.dev-0579C3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-<a href="https://twitter.com/intent/follow?screen_name=MrPunyapal"><img src="https://img.shields.io/twitter/follow/MrPunyapal?style=for-the-badge&logo=x&logoColor=white&label=Follow&color=000000" alt="Twitter"/></a>
+<a href="https://x.com/MrPunyapal"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
 <a href="https://www.linkedin.com/in/MrPunyapal/"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.youtube.com/@mrpunyapal"><img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 <a href="https://pinkary.com/@MrPunyapal"><img src="https://img.shields.io/badge/Pinkary-E91E8C?style=for-the-badge&logoColor=white" alt="Pinkary"/></a>
@@ -116,8 +116,8 @@ final readonly class PunyapalShah
 <a href="https://github.com/MrPunyapal/laravel-extended-relationships"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MrPunyapal&repo=laravel-extended-relationships&theme=transparent&hide_border=true&title_color=0579C3&text_color=417E87&icon_color=006AFF" alt="laravel-extended-relationships"/></a>
 <p><strong>Efficient Eloquent relationship methods for Laravel</strong></p>
 <p>
-<img src="https://img.shields.io/github/stars/MrPunyapal/laravel-extended-relationships?style=flat-square&color=0579C3" />
-<img src="https://img.shields.io/packagist/dt/mrpunyapal/laravel-extended-relationships?style=flat-square&color=006AFF&label=downloads" />
+<img src="https://img.shields.io/github/stars/MrPunyapal/laravel-extended-relationships?style=flat-square&label=stars" />
+<img src="https://img.shields.io/github/forks/MrPunyapal/laravel-extended-relationships?style=flat-square&label=forks" />
 </p>
 </div>
 
@@ -129,8 +129,8 @@ final readonly class PunyapalShah
 <a href="https://github.com/MrPunyapal/rector-pest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MrPunyapal&repo=rector-pest&theme=transparent&hide_border=true&title_color=0579C3&text_color=417E87&icon_color=006AFF" alt="rector-pest"/></a>
 <p><strong>Rector rules for Pest — automate test migrations</strong></p>
 <p>
-<img src="https://img.shields.io/github/stars/MrPunyapal/rector-pest?style=flat-square&color=0579C3" />
-<img src="https://img.shields.io/packagist/dt/mrpunyapal/rector-pest?style=flat-square&color=006AFF&label=downloads" />
+<img src="https://img.shields.io/github/stars/MrPunyapal/rector-pest?style=flat-square&label=stars" />
+<img src="https://img.shields.io/packagist/dt/mrpunyapal/rector-pest?style=flat-square&label=downloads" />
 </p>
 </div>
 
@@ -144,8 +144,8 @@ final readonly class PunyapalShah
 <a href="https://github.com/MrPunyapal/basic-crud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MrPunyapal&repo=basic-crud&theme=transparent&hide_border=true&title_color=0579C3&text_color=417E87&icon_color=006AFF" alt="basic-crud"/></a>
 <p><strong>Best practices for CRUD operations — beginner to advanced</strong></p>
 <p>
-<img src="https://img.shields.io/github/stars/MrPunyapal/basic-crud?style=flat-square&color=0579C3" />
-<img src="https://img.shields.io/github/forks/MrPunyapal/basic-crud?style=flat-square&color=006AFF" />
+<img src="https://img.shields.io/github/stars/MrPunyapal/basic-crud?style=flat-square&label=stars" />
+<img src="https://img.shields.io/github/forks/MrPunyapal/basic-crud?style=flat-square&label=forks" />
 </p>
 </div>
 
@@ -157,8 +157,8 @@ final readonly class PunyapalShah
 <a href="https://github.com/MrPunyapal/livewire-chat-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MrPunyapal&repo=livewire-chat-app&theme=transparent&hide_border=true&title_color=0579C3&text_color=417E87&icon_color=006AFF" alt="livewire-chat-app"/></a>
 <p><strong>Real-time chat app powered by Laravel Reverb</strong></p>
 <p>
-<img src="https://img.shields.io/github/stars/MrPunyapal/livewire-chat-app?style=flat-square&color=0579C3" />
-<img src="https://img.shields.io/github/forks/MrPunyapal/livewire-chat-app?style=flat-square&color=006AFF" />
+<img src="https://img.shields.io/github/stars/MrPunyapal/livewire-chat-app?style=flat-square&label=stars" />
+<img src="https://img.shields.io/github/forks/MrPunyapal/livewire-chat-app?style=flat-square&label=forks" />
 </p>
 </div>
 
@@ -172,8 +172,8 @@ final readonly class PunyapalShah
 <a href="https://github.com/MrPunyapal/laravel-extended-commands"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MrPunyapal&repo=laravel-extended-commands&theme=transparent&hide_border=true&title_color=0579C3&text_color=417E87&icon_color=006AFF" alt="laravel-extended-commands"/></a>
 <p><strong>Additional Artisan commands missing from Laravel</strong></p>
 <p>
-<img src="https://img.shields.io/github/stars/MrPunyapal/laravel-extended-commands?style=flat-square&color=0579C3" />
-<img src="https://img.shields.io/packagist/dt/mrpunyapal/laravel-extended-commands?style=flat-square&color=006AFF&label=downloads" />
+<img src="https://img.shields.io/github/stars/MrPunyapal/laravel-extended-commands?style=flat-square&label=stars" />
+<img src="https://img.shields.io/packagist/dt/mrpunyapal/laravel-extended-commands?style=flat-square&label=downloads" />
 </p>
 </div>
 
@@ -185,8 +185,8 @@ final readonly class PunyapalShah
 <a href="https://github.com/MrPunyapal/laravel-auth-jobs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MrPunyapal&repo=laravel-auth-jobs&theme=transparent&hide_border=true&title_color=0579C3&text_color=417E87&icon_color=006AFF" alt="laravel-auth-jobs"/></a>
 <p><strong>Access authenticated user in queued jobs</strong></p>
 <p>
-<img src="https://img.shields.io/github/stars/MrPunyapal/laravel-auth-jobs?style=flat-square&color=0579C3" />
-<img src="https://img.shields.io/packagist/dt/mrpunyapal/laravel-auth-jobs?style=flat-square&color=006AFF&label=downloads" />
+<img src="https://img.shields.io/github/stars/MrPunyapal/laravel-auth-jobs?style=flat-square&label=stars" />
+<img src="https://img.shields.io/packagist/dt/mrpunyapal/laravel-auth-jobs?style=flat-square&label=downloads" />
 </p>
 </div>
 
@@ -220,14 +220,14 @@ final readonly class PunyapalShah
 <div align="center">
 
 <a href="https://github.com/MrPunyapal">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=MrPunyapal&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&rank_icon=percentile&theme=transparent&title_color=0579C3&text_color=417E87&icon_color=006AFF" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=MrPunyapal&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=transparent&title_color=0579C3&text_color=417E87&icon_color=006AFF" />
 </a>
 <a href="https://github.com/MrPunyapal">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPunyapal&layout=donut&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=transparent&title_color=0579C3&text_color=417E87" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPunyapal&layout=donut&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=0579C3&text_color=417E87" />
 </a>
 
 <a href="https://github.com/MrPunyapal">
-  <img height=200 src="https://streak-stats.demolab.com?user=MrPunyapal&theme=transparent&hide_border=true&ring=0579C3&fire=006AFF&currStreakLabel=0579C3&sideLabels=417E87&dates=417E87" alt="GitHub Streak" />
+  <img height="200" align="center" src="https://streak-stats.demolab.com?user=MrPunyapal&theme=transparent&hide_border=true&ring=0579C3&fire=006AFF&currStreakLabel=0579C3&sideLabels=417E87&dates=417E87" alt="GitHub Streak" />
 </a>
 
 <a href="https://github.com/MrPunyapal">
