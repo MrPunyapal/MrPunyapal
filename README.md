@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Building open source tools for Laravel developers.</strong>
+  <strong>Building open source software for Laravel developers.</strong>
 </p>
 
 <p align="center">
