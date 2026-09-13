@@ -32,9 +32,3 @@
 - 🤝 Collaborator @ <a href="https://github.com/panphp"><strong>panphp</strong></a>
 - 👥 Founder of <a href="https://laravelartisans.com"><strong>Laravel Artisans</strong></a>
 - 🌍 Contributed to **100+ open source repositories** across the Laravel and PHP ecosystem.
-
-<p align="left">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=MrPunyapal&bg_color=00000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true&hide_title=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrPunyapal&bg_color=00000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true&hide_title=true" alt="Contribution Graph">
-  </a>
-</p>
