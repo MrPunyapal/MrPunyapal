@@ -53,4 +53,10 @@ Trying to make developer tooling a little less annoying.
 
 I spend a lot of my time working on open source.
 
-If something I've built has been useful to you, you can [sponsor my work](https://github.com/sponsors/MrPunyapal).
+If something I've built has been useful to you, you can sponsor my work.
+
+<p align="left">
+  <a href="https://github.com/sponsors/MrPunyapal">
+    <img src="https://img.shields.io/github/sponsors/MrPunyapal?label=%E2%99%A5%20Sponsor%20my%20work&style=for-the-badge&labelColor=111827&color=ff2d78" alt="Sponsor my work">
+  </a>
+</p>
