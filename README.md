@@ -4,15 +4,15 @@ Laravel engineer. Open source maintainer. I build things for developers.
 
 <p align="left">
   <a href="https://mrpunyapal.dev">
-    <img src="https://img.shields.io/badge/Website-mrpunyapal.dev-111827?style=flat-square" alt="Website">
+    <img src="https://img.shields.io/badge/🌐-mrpunyapal.dev-lightgrey?style=flat-square" alt="Website">
   </a>
-  <a href="https://x.com/MrPunyapal">
-    <img src="https://img.shields.io/twitter/follow/MrPunyapal?label=Follow&style=flat-square" alt="Follow on X">
+  <a href="https://twitter.com/intent/follow?screen_name=MrPunyapal">
+    <img src="https://img.shields.io/twitter/follow/MrPunyapal?label=Follow" alt="Follow on X">
   </a>
   <a href="https://www.linkedin.com/in/MrPunyapal/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mr-punyapal&label=Profile%20Views&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=mr-punyapal&label=Profile%20Views" alt="Profile Views">
 </p>
 
 ## What I do
